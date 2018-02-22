@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MainConnection-Web.config Connection String" description="MainConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=den1.mssql1.gear.host;Initial Catalog=libnotedb;Persist Security Info=True;User ID=libnotedb;Password=Bz00m2Q9!m7-" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Aleksey\\Aleksey\\PersonalFiles\\LibNoteApi\\LibNoteApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MainConnection']/@connectionString" />
+  </parameter>
+</parameters>
