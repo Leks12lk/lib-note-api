@@ -10,6 +10,6 @@ namespace LibNoteApi.Repositories.Interfaces
 		List<Notification> GetAllNonSentNotifications();
 		bool AddNotification(Notification notification);
 		bool UpdateNotification(Notification notification);
-		bool DeleteNotification(Notification notification);
+		bool DeleteNotification(string bookKey, string userUid);
 	}
 }

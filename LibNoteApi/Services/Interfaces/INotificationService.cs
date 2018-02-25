@@ -7,6 +7,6 @@ namespace LibNoteApi.Services.Interfaces
 		bool AddNotification(NotificationDto dto);
 		bool UpdateNotification(NotificationDto dto);
 		bool IsExistNotification(NotificationDto dto);
-		bool DeleteNotification(NotificationDto dto);
+		bool DeleteNotification(string bookKey, string userUid);
 	}
 }

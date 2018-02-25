@@ -57,7 +57,6 @@ D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\System.Web.WebPages.x
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\System.Web.WebPages.Deployment.xml
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\System.Web.WebPages.Razor.xml
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\Antlr3.Runtime.pdb
-D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\obj\Debug\LibNoteApi.csproj.CoreCompileInputs.cache
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\obj\Debug\LibNoteApi.dll
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\obj\Debug\LibNoteApi.pdb
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\EntityFramework.dll
@@ -76,4 +75,6 @@ D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\Ninject.Web.Common.xm
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\Ninject.Web.Common.WebHost.xml
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\Ninject.Web.Mvc.xml
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\WebActivatorEx.dll
+D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\NLog.dll
+D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\NLog.xml
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\obj\Debug\LibNoteApi.csprojResolveAssemblyReference.cache

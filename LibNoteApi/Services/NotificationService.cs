@@ -32,10 +32,9 @@ namespace LibNoteApi.Services
 			return _notificationRepository.GetNotification(notification) != null;
 		}
 
-		public bool DeleteNotification(NotificationDto dto)
+		public bool DeleteNotification(string bookKey, string userUid)
 		{
-			var notification = MapDtoToNotification(dto);
-			return _notificationRepository.DeleteNotification(notification);
+			return _notificationRepository.DeleteNotification(bookKey, userUid);
 		}
 
 		private static Notification MapDtoToNotification(NotificationDto dto)
@@ -48,6 +47,7 @@ namespace LibNoteApi.Services
 				Email = dto.Email,
 				UserName = dto.UserName,
 				UserUid = dto.UserUid,
+				BookKey = dto.BookKey,
 				BookTitle = dto.BookTitle,
 				BookAuthor = dto.BookAuthor,
 				DateTimeToSendEmail = dto.DateTimeToSendEmail,

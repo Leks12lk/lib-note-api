@@ -25,7 +25,7 @@ namespace LibNoteApi
 
 			AreaRegistration.RegisterAllAreas();
 			GlobalConfiguration.Configure(WebApiConfig.Register);
-			FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
+			FilterConfig.RegisterGlobalFilters(GlobalConfiguration.Configuration);
 			RouteConfig.RegisterRoutes(RouteTable.Routes);
 			BundleConfig.RegisterBundles(BundleTable.Bundles);
 		}

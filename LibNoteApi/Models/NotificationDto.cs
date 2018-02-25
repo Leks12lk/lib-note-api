@@ -12,6 +12,8 @@ namespace LibNoteApi.Models
 		[Required]
 		public string UserName { get; set; }
 		[Required]
+		public string BookKey { get; set; }
+		[Required]
 		public string BookTitle { get; set; }
 		public string BookAuthor { get; set; }
 		[Required]

@@ -1,12 +1,14 @@
 ﻿using System.Collections.Generic;
 using System.Web.Http;
 using LibNoteApi.Models;
+using NLog;
 
 namespace LibNoteApi.Controllers
 {
 	public class ValuesController : ApiController
 	{
 		private readonly ApplicationDbContext _db = new ApplicationDbContext();
+		private static readonly Logger Logger = LogManager.GetCurrentClassLogger();
 		// GET api/values
 		public IEnumerable<string> Get()
 		{

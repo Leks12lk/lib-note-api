@@ -76,3 +76,5 @@ D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\Antlr3.Runtime.pdb
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\obj\Release\LibNoteApi.dll
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\obj\Release\LibNoteApi.pdb
 D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\obj\Release\LibNoteApi.csprojResolveAssemblyReference.cache
+D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\NLog.dll
+D:\Aleksey\Aleksey\PersonalFiles\LibNoteApi\LibNoteApi\bin\NLog.xml

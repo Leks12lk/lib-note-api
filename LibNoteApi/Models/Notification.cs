@@ -13,6 +13,7 @@ namespace LibNoteApi.Models
 		public string Email { get; set; }
 		public string UserName { get; set; }
 		public DateTime DateTimeToSendEmail { get; set; }
+		public string BookKey { get; set; }
 		public string BookTitle { get; set; }
 		public string BookAuthor { get; set; }
 		public string ZapierUrl { get; set; }
